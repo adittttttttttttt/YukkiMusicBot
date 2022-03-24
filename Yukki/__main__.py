@@ -118,8 +118,6 @@ async def initiate_bot():
     await run()
     console.print(f"\n[red]Stopping Bot")
 
-BOT_IMAGE = https://telegra.ph/file/803367f0e1f1cb3efbcf5.jpg
-
 home_text_pm = f"""Hello ,
 My name is {BOT_NAME}.
 I'm Telegram Voice Chat Audio with some useful features.
